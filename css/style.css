@@ -27,7 +27,7 @@ header{
 }
 
 .logo {
-	width:15%;
+	width:10%;
 	/* border:1px solid blue; */
 	float: left;
 }
@@ -41,7 +41,7 @@ header{
 	width:80%;
 	/* border: 1px solid blue; */
 	float: right;
-	margin-top: 9px;
+	/*margin-top: 9px; */
 }
 .menu ul{
 	float: right;
